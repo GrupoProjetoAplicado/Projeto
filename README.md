@@ -3,7 +3,7 @@ O presente projeto tem como objetivo principal realizar um estudo prático sobre
 
 
 
-Acesso ao documento do projeto: https://github.com/GrupoProjetoAplicado/Projeto/tree/main/Documento
+Acesso ao documento do projeto: 
 
 Acesso aos dados: https://github.com/GrupoProjetoAplicado/Projeto/tree/main/Data
 #
