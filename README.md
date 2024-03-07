@@ -3,16 +3,16 @@ O presente projeto tem como objetivo principal realizar um estudo prático sobre
 
 
 
-Acesso ao documento do projeto: 
+Acesso ao documento do projeto: https://github.com/GrupoProjetoAplicado/Projeto/tree/main/Documento
 
 Acesso aos dados: https://github.com/GrupoProjetoAplicado/Projeto/tree/main/Data
 #
 Membros
 
-Erick da Silva Isidoro – 
+Erick da Silva Isidoro
 
-Gabriel Oliveira – 
+Gabriel Oliveira
 
-Giovanna Sobral da Silva – 
+Giovanna Sobral da Silva
 
-Kelly Graziely dos Santos Pena – 
+Kelly Graziely dos Santos Pena
